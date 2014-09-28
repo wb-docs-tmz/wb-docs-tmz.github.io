@@ -1,0 +1,5 @@
+/* customizations to the theme and other stuff go here */
+.sidebar
+{
+    overflow: auto;
+}
