@@ -31,7 +31,6 @@ Feeds that support pagination will have an `atom:link` with the next link to fol
 ***
 
 
-
 ## Available Feeds
 
 
@@ -81,10 +80,7 @@ passing a header `If-None-Match: ETAG` will return a 304 status code if the cont
 been modified.  See [HTTP ETag](http://en.wikipedia.org/wiki/HTTP_ETag).
 
 __CURL Example:__
-<<<<<<< HEAD
 
-=======
->>>>>>> master
 {% highlight bash %}
 # Get the ETag for the feed
 etag=$(curl -s -I "https://feeds.tmz.com/lastest-news/rss" 2>|/dev/null | awk '/^ETag: / {print $2}' | sed 's/\"//g')
@@ -93,8 +89,4 @@ etag=`echo -n "${etag//[[:space:]]/}"`
 # Verify the ETag, should return "HTTP/1.0 304 Not Modified"
 eval "curl -s -I -H 'If-None-Match: \"$etag\"' \"https://feeds.tmz.com/rss\""
 
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 {% endhighlight %}
