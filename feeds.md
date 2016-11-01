@@ -51,7 +51,7 @@ This is the TMZ home page feed.
 
 
 ###### Iris
-Custom feed for Iris partner that delivers an MRSS feed of kaltura videos. The category is a valid irs category (e.g. _i_ad-sales-amazon_i_)
+Custom feed for Iris partner that delivers an MRSS feed of kaltura videos. The category is a valid irs category (e.g. _ad-sales-amazon_)
 
 + `https://feeds.tmz.com/iris/{kaltura_cat}` - Provides the "home featured" content.
 
@@ -63,6 +63,7 @@ Custom feed that delivers TMZ videos.
 
 ##### AOL Publishers JSON News Format
 Custom feed for AOL for showing homepage news in JSON format. Takes special parameters.
+
 + __start__ - required- a unix Timestamp.
 + __end__ - optional- a unix timestamp. Defaults to current timestamp.
 + __n__ - optional- Limits the number of items returned. Defaults to 100.
@@ -82,6 +83,7 @@ been modified.  See [HTTP ETag](http://en.wikipedia.org/wiki/HTTP_ETag).
 __CURL Example:__
 
 {% highlight bash %}
+
 # Get the ETag for the feed
 etag=$(curl -s -I "https://feeds.tmz.com/lastest-news/rss" 2>|/dev/null | awk '/^ETag: / {print $2}' | sed 's/\"//g')
 etag=`echo -n "${etag//[[:space:]]/}"`
