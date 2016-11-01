@@ -67,8 +67,8 @@ Custom feed for AOL for showing homepage news in JSON format. Takes special para
 + __start__ - required- a unix Timestamp.
 + __end__ - optional- a unix timestamp. Defaults to current timestamp.
 + __n__ - optional- Limits the number of items returned. Defaults to 100.
-`https://feeds.tmz.com/latest-news-by-range/aoljson?start={start_date}&end={end_date}&n={max}`
 
++ `https://feeds.tmz.com/latest-news-by-range/aoljson?start={start_date}&end={end_date}&n={max}`
 
 ***
 
@@ -81,7 +81,10 @@ passing a header `If-None-Match: ETAG` will return a 304 status code if the cont
 been modified.  See [HTTP ETag](http://en.wikipedia.org/wiki/HTTP_ETag).
 
 __CURL Example:__
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 {% highlight bash %}
 # Get the ETag for the feed
 etag=$(curl -s -I "https://feeds.tmz.com/lastest-news/rss" 2>|/dev/null | awk '/^ETag: / {print $2}' | sed 's/\"//g')
@@ -90,4 +93,8 @@ etag=`echo -n "${etag//[[:space:]]/}"`
 # Verify the ETag, should return "HTTP/1.0 304 Not Modified"
 eval "curl -s -I -H 'If-None-Match: \"$etag\"' \"https://feeds.tmz.com/rss\""
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 {% endhighlight %}
