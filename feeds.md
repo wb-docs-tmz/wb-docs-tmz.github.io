@@ -50,15 +50,23 @@ This is the TMZ home page feed.
 + `https://feeds.tmz.com/lists/{list}/{content_type}/{feed_type}`
 
 
+###### Syndication Partners
+Renders 25 of the latest posts and does not support pagination.
++ `https://feeds.tmz.com/partners/{partner}/{feed_type}`
+
+
 ###### Iris
 Custom feed for Iris partner that delivers an MRSS feed of kaltura videos. The category is a valid irs category (e.g. _ad-sales-amazon_)
 
 + `https://feeds.tmz.com/iris/{kaltura_cat}` - Provides the "home featured" content.
 
+
 ###### Video
 Custom feed that delivers TMZ videos.  
 
-+ `https://feeds.tmz.com/latest-news/` - Provides the "home featured" content.
++ `https://feeds.tmz.com/latest-videos/` - Provides the "home featured" content.
++ `https://feeds.tmz.com/latest-videos/tmz-category/{category_slug}/{feed_type}` - Provides the a video feed based on a category.
++ mrss and dfp formats are currently available.
 
 
 ##### AOL Publishers JSON News Format
