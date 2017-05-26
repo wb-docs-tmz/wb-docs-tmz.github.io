@@ -58,7 +58,7 @@ Custom feed for Iris partner that delivers an MRSS feed of kaltura videos. The c
 ###### Video
 Custom feed that delivers TMZ videos.  
 
-+ `https://feeds.tmz.com/latest-news/` - Provides the "home featured" content.
++ `https://feeds.tmz.com/latest-videos/mrss` - Provides "latest" video content content.
 
 
 ##### AOL Publishers JSON News Format
