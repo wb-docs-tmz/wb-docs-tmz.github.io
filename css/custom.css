@@ -38,6 +38,10 @@ h2.header{
     background: #00D9B7;
 }
 
+.bg-gray{
+    background: #EDEEF0;
+}
+
 .pull-left{
     float: left;
 }
@@ -72,3 +76,30 @@ h2.headline.small{
 .fragments span{
     margin-right: 15px;
 }
+
+.center-block{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.panel{
+    padding: 17px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.mobile-img-title div{
+    width: 50%;
+}
+
+.mobile-img-title.mobile-site div:first-child{
+    width: 41%;
+}
+
+.mobile-app-img .pull-left{
+    margin-left: 15%;
+}
+
+
