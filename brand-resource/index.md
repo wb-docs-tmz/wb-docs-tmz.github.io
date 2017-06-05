@@ -22,19 +22,19 @@ Find and learn how to use official TMZ assets.
 <h2 id="tmz-com" class="header space-up">TMZ.COM</h2>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-logo-image.jpg?crc=221503709" />
      <div class="pull-right download-links">
-       <a href="#">PNG</a> | <a href="#">SVG</a>
+       <a href="/brand-resource/logos/tmz-logo-image.png" download="tmz-logo-image.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-logo-image-blk.jpg?crc=157215954" />
      <div class="pull-right download-links">
-        <a href="#">PNG</a> | <a href="#">SVG</a>
+        <a href="/brand-resource/logos/tmz-logo-image-blk.png" download="tmz-logo-image-blk.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-logo-image-wht.jpg?crc=4115404290" />
      <div class="pull-right download-links">
-        <a href="#">PNG</a> | <a href="#">SVG</a>
+        <a href="/brand-resource/logos/tmz-logo-image-wht.png" download="tmz-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
   <br><br>
@@ -90,19 +90,19 @@ Find and learn how to use official TMZ assets.
 <h2 id="tmz-sports" class="header space-up">TMZ SPORTS</h2>
       <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-sports-logo-image.jpg?crc=3919681616" />
       <div class="pull-right download-links">
-           <a href="#">PNG</a> | <a href="#">SVG</a>
+           <a href="/brand-resource/logos/tmz-sports-logo-image.png" download="tmz-sports-logo-image.png">PNG</a> | <a href="#">SVG</a>
       </div>
       <div style="clear:both"></div>
       <hr>
       <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-sports-logo-image-blk.jpg?crc=419939086" />
       <div class="pull-right download-links">
-           <a href="#">PNG</a> | <a href="#">SVG</a>
+           <a href="/brand-resource/logos/tmz-sports-logo-image-blk.png" download="tmz-sports-logo-image-blk.png">PNG</a> | <a href="#">SVG</a>
       </div>
       <div style="clear:both"></div>
       <hr>
       <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-sports-logo-image-wht.jpg?crc=403158347" />
       <div class="pull-right download-links">
-            <a href="#">PNG</a> | <a href="#">SVG</a>
+            <a href="/brand-resource/logos/tmz-sports-logo-image-wht.png" download="tmz-sports-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
       </div>
       <div style="clear:both"></div>
       <br><br>
@@ -158,19 +158,19 @@ Find and learn how to use official TMZ assets.
 <h2 id="tmz-on-tv" class="header space-up">TMZ ON TV</h2>   
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-on-tv-logo-image.jpg?crc=350286539" />
      <div class="pull-right download-links">
-         <a href="#">PNG</a> | <a href="#">SVG</a>
+         <a href="/brand-resource/logos/tmz-on-tv-logo-image-wht.png" download="tmz-on-tv-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-on-tv-logo-image-blk.jpg?crc=432420760" />
      <div class="pull-right download-links">
-         <a href="#">PNG</a> | <a href="#">SVG</a>
+         <a href="/brand-resource/logos/tmz-on-tv-logo-image-blk.png" download="tmz-on-tv-logo-image-blk.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-on-tv-logo-image-wht.jpg?crc=3886121019" />
      <div class="pull-right download-links">
-         <a href="#">PNG</a> | <a href="#">SVG</a>
+         <a href="/brand-resource/logos/tmz-on-tv-logo-image-wht.png" download="tmz-on-tv-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <br/><br>
@@ -178,19 +178,19 @@ Find and learn how to use official TMZ assets.
 <h2 id="tmz-live" class="header space-up">TMZ LIVE</h2>   
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-live-logo-image.jpg?crc=461245538" />
      <div class="pull-right download-links">
-         <a href="#">PNG</a> | <a href="#">SVG</a>
+         <a href="/brand-resource/logos/tmz-live-logo-image.png" download="tmz-live-logo-image.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-live-logo-image-blk.jpg?crc=3867170313" />
      <div class="pull-right download-links">
-         <a href="#">PNG</a> | <a href="#">SVG</a>
+         <a href="/brand-resource/logos/tmz-live-logo-image-blk.png" download="tmz-live-logo-image-blk.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-live-logo-image-wht.jpg?crc=3949268570" />
      <div class="pull-right download-links">
-          <a href="#">PNG</a> | <a href="#">SVG</a>
+          <a href="/brand-resource/logos/tmz-live-logo-image-wht.png" download="tmz-live-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <br/><br>
@@ -198,19 +198,19 @@ Find and learn how to use official TMZ assets.
 <h2 id="tmz-tour" class="header space-up">TMZ TOUR</h2>   
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-tour-logo-image.jpg?crc=1808826368" />
      <div class="pull-right download-links">
-          <a href="#">PNG</a> | <a href="#">SVG</a>
+          <a href="/brand-resource/logos/tmz-tour-logo-image.png" download="tmz-tour-logo-image.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-tour-logo-image-blk.jpg?crc=3781522093" />
      <div class="pull-right download-links">
-          <a href="#">PNG</a> | <a href="#">SVG</a>
+          <a href="/brand-resource/logos/tmz-tour-logo-image-blk.png" download="tmz-tour-logo-image-blk.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-tour-logo-image-wht.jpg?crc=4048852333" />
      <div class="pull-right download-links">
-          <a href="#">PNG</a> | <a href="#">SVG</a>
+          <a href="/brand-resource/logos/tmz-tour-logo-image-wht.png" download="tmz-tour-logo-image-wht.png">PNG</a> | <a href="#">SVG</a>
      </div>
      <div style="clear:both"></div>
 </div>
