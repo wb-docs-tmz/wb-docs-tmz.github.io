@@ -3,11 +3,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 <title>
-{% if page.title %}
+  {% if page.title %}
   {{ page.title }} &middot; {{ site.title }}
-{% else %}
+  {% else %}
   {{ site.title }} &middot; {{ site.tagline }}
-{% endif %}
+  {% endif %}
 </title>
 <meta name="description" content="{{ site.subtitle }}">
 
@@ -15,7 +15,9 @@
 <link rel="stylesheet" href="/css/syntax.css">
 <link rel="stylesheet" href="/css/hyde.css">
 <link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/lightbox.min.css">
 <link rel="stylesheet" href="/css/custom.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/js/lightbox.js"></script>

@@ -4,14 +4,17 @@ title: Marketing
 ---
 
 Find templates you can use to create your own advertisements that will live on our sites.
-
-<img src="http://tmz-brand.businesscatalyst.com/images/tmz-marketing-image.jpg?crc=146545690" />
+<img src="/brand-resource/images/tmz-marketing-image.jpg" />
 
 <br>
 
 <h2 id="hot-box" class="header space-up">HOTBOX</h2>
 
-<img class="center-block" src="http://tmz-brand.businesscatalyst.com/images/hotbox-tmz-example.jpg?crc=4051417646" />
+Click to expand example: <br>
+
+<a href="/brand-resource/images/hotbox-tmz-example-site.jpg" data-lightbox="lightbox-1" data-title="">
+   <img class="center-block" src="/brand-resource/images/hotbox-tmz-example.jpg" />
+</a>
 
 <div class="panel bg-gray">
   <div class="pull-left">
@@ -31,7 +34,11 @@ Find templates you can use to create your own advertisements that will live on o
 
 <h2 id="clutter-buster" class="header space-up">CLUTTERBUSTER</h2>
 
-<img class="center-block" src="http://tmz-brand.businesscatalyst.com/images/clutterbuster-tmz-example.jpg?crc=163103681" />
+Click to expand example: <br>
+
+<a href="/brand-resource/images/clutterbuster-tmz-example-site.jpg" data-lightbox="lightbox-2" data-title="">
+    <img class="center-block" src="/brand-resource/images/clutterbuster-tmz-example.jpg" />
+</a>
 
 <div class="panel bg-gray">
   <div class="pull-left">
@@ -51,7 +58,11 @@ Find templates you can use to create your own advertisements that will live on o
 
 <h2 id="website-skin" class="header space-up">WEBSITE SKIN</h2>
 
-<img class="center-block" src="http://tmz-brand.businesscatalyst.com/images/skin-example-02698x386.jpg?crc=3920602529" />
+Click to expand example: <br>
+
+<a href="/brand-resource/images/skin-example-sitejpg728x435.jpg" data-lightbox="lightbox-3" data-title="">
+    <img class="center-block" src="/brand-resource/images/skin-example-02698x386.jpg" />
+</a>
 
 <div class="panel bg-gray">
   <div class="pull-left">
@@ -79,10 +90,10 @@ Example:
   <div style="clear:both"></div> 
 </div>
 
-<div class="center-block mobile-site">     
-      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/iphone-mobile-site-image-03212x432.jpg?crc=36980694" />
-      <img class="pull-right" src="http://tmz-brand.businesscatalyst.com/images/iphone-mobile-site-image-02212x432.jpg?crc=4180951392" />
-      <img class="pull-right" src="http://tmz-brand.businesscatalyst.com/images/iphone-mobile-site-image-01212x432.jpg?crc=14324228" />
+<div class="center-block mobile-site">  
+      <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-03212x432.jpg" />
+      <img class="pull-right" src="/brand-resource/images/iphone-mobile-site-image-02212x432.jpg" />
+      <img class="pull-right" src="/brand-resource/images/iphone-mobile-site-image-01212x432.jpg" />
       <div style="clear:both"></div> 
 </div>
 
@@ -117,8 +128,8 @@ Example:
 </div>
 
 <div class="center-block mobile-app-img">     
-      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/iphone-mobile-app-image-02212x432.jpg?crc=4216151230" />
-      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/iphone-mobile-app-image-01212x432.jpg?crc=3919539054" />
+      <img class="pull-left" src="/brand-resource/images/iphone-mobile-app-image-02212x432.jpg" />
+      <img class="pull-left" src="/brand-resource/images/iphone-mobile-app-image-01212x432.jpg" />
       <div style="clear:both"></div> 
 </div>
 
