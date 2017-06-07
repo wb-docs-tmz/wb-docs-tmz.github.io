@@ -26,7 +26,8 @@ Click to expand example: <br>
   <div style="clear:both"></div>
   <br>
   <div class="text-center">
-         Download Template: <b>Psd</b>
+         Download Template: 
+         <a class="download" href="/brand-resource/psd/hotbox.psd" download="hotbox.psd">PSD</a>
   </div>  
 </div>
 
@@ -50,7 +51,8 @@ Click to expand example: <br>
   <div style="clear:both"></div>
   <br>
   <div class="text-center">
-         Download Template: <b>Psd</b>
+         Download Template: 
+         <a class="download" href="/brand-resource/psd/clutterbuster.psd" download="clutterbuster.psd">PSD</a>
   </div>  
 </div>
 
@@ -74,7 +76,8 @@ Click to expand example: <br>
   <div style="clear:both"></div>
   <br>
   <div class="text-center">
-         Download Template: <b>Psd</b>
+         Download Template: 
+         <a class="download" href="/brand-resource/psd/website-skin.psd" download="website-skin.psd">PSD</a>
   </div>  
 </div>
 
@@ -110,8 +113,8 @@ Example:
       Expandable Ad Unit Dimension: <b>W 640 x H 132 to 328</b>
   </div>  
   <br>
-  <div class="text-center">
-         Download Template: <b>Psd</b>
+  <div class="text-center hidden">
+         Download Template: <b>PSD</b>
   </div>  
 </div>
 
@@ -146,7 +149,7 @@ Example:
       Ad Unit Dimension: <b>500 x 600</b>
   </div>  
   <br>
-  <div class="text-center">
-         Download Template: <b>Psd</b>
+  <div class="text-center hidden">
+         Download Template: <b>PSD</b>
   </div>  
 </div>

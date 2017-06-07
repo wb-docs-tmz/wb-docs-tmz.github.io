@@ -101,5 +101,11 @@ h2.headline.small{
 .mobile-app-img .pull-left{
     margin-left: 15%;
 }
+.panel a.download{
+    color: #515151;
+}
+.hidden{
+    display: none;
+}
 
 
