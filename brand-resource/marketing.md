@@ -27,7 +27,7 @@ Click to expand example: <br>
   <br>
   <div class="text-center">
          Download Template: 
-         <a class="download" href="/brand-resource/psd/hotbox.psd" download="hotbox.psd">PSD</a>
+         <a class="download" href="/brand-resource/psd/fued_hotbox.psd" download="fued_hotbox.psd">PSD</a>
   </div>  
 </div>
 
@@ -77,7 +77,7 @@ Click to expand example: <br>
   <br>
   <div class="text-center">
          Download Template: 
-         <a class="download" href="/brand-resource/psd/website-skin.psd" download="website-skin.psd">PSD</a>
+         <a class="download" href="/brand-resource/psd/Homepage-Skin-Ads-Template-1920x1080.psd" download="Homepage-Skin-Ads-Template-1920x1080.psd">PSD</a>
   </div>  
 </div>
 
