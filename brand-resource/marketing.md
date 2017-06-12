@@ -23,7 +23,7 @@ Click to expand example: <br>
   <div class="pull-right">
         Ad Unit Type: <b>Video</b>
   </div>
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   <br>
   <div class="text-center">
          Download Template: 
@@ -48,7 +48,7 @@ Click to expand example: <br>
   <div class="pull-right">
         Ad Unit Type: <b>Video/Static</b>
   </div>
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   <br>
   <div class="text-center">
          Download Template: 
@@ -73,7 +73,7 @@ Click to expand example: <br>
   <div class="pull-right">
         Ad Unit Type: <b>Video/Static</b>
   </div>
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   <br>
   <div class="text-center">
          Download Template: 
@@ -87,17 +87,20 @@ Click to expand example: <br>
 
 Example:
 
-<div class="mobile-img-title mobile-site">
-  <div class="pull-left"><b>Pop-up</b></div>
-  <div class="pull-left"><b>Expandable</b></div>
-  <div style="clear:both"></div> 
-</div>
-
 <div class="center-block mobile-site">  
-      <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-03212x432.jpg" />
-      <img class="pull-right" src="/brand-resource/images/iphone-mobile-site-image-02212x432.jpg" />
-      <img class="pull-right" src="/brand-resource/images/iphone-mobile-site-image-01212x432.jpg" />
-      <div style="clear:both"></div> 
+      <div class="pull-left">
+          <b>Pop-up</b>
+          <img src="/brand-resource/images/iphone-mobile-site-image-03212x432.jpg" />
+      </div>
+      <div class="pull-left">
+          <div>
+            <b>Expandable</b>
+          </div>
+          <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-02212x432.jpg" />
+          <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-01212x432.jpg" />
+          <div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
 </div>
 
 <div class="panel bg-gray">
@@ -107,7 +110,7 @@ Example:
   <div class="pull-right">
         Ad Unit Type: <b>Static</b>
   </div>
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   
   <div>
       Expandable Ad Unit Dimension: <b>W 640 x H 132 to 328</b>
@@ -124,16 +127,16 @@ Example:
 
 Example:
 
-<div class="mobile-img-title ">
-  <div class="pull-left text-center"><b>Pop-up</b></div>
-  <div class="pull-left text-center"><b>Static Unit</b></div>
-  <div style="clear:both"></div> 
-</div>
-
-<div class="center-block mobile-app-img">     
-      <img class="pull-left" src="/brand-resource/images/iphone-mobile-app-image-02212x432.jpg" />
-      <img class="pull-left" src="/brand-resource/images/iphone-mobile-app-image-01212x432.jpg" />
-      <div style="clear:both"></div> 
+<div class="center-block mobile-app-img">  
+      <div class="pull-left">
+         <b>Pop-up</b>
+         <img src="/brand-resource/images/iphone-mobile-app-image-02212x432.jpg" />
+      </div>
+      <div class="pull-left">
+         <b>Static Unit</b>
+         <img src="/brand-resource/images/iphone-mobile-app-image-01212x432.jpg" />
+      </div>
+      <div class="clearfix"></div> 
 </div>
 
 <div class="panel bg-gray">
@@ -143,7 +146,7 @@ Example:
   <div class="pull-right">
         Ad Unit Type: <b>Static</b>
   </div>
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   
   <div>
       Ad Unit Dimension: <b>500 x 600</b>

@@ -7,39 +7,29 @@ title: Assets
 
 Find and learn how to use official TMZ assets.
 
-<img src="/brand-resource/images/tmz-logo-grid.jpg" />
-
-<div class="sticky">
-    <a class="nav" href="#" onclick="scrollTo('tmz-com')">TMZ.COM</a> <br> <br>
-    <a class="nav" href="#" onclick="scrollTo('tmz-sports')">TMZ SPORTS</a> <br> <br>
-    <a class="nav" href="#" onclick="scrollTo('tmz-on-tv')">TMZ ON TV</a> <br> <br>
-    <a class="nav" href="#" onclick="scrollTo('tmz-live')">TMZ LIVE</a> <br> <br>
-    <a class="nav" href="#" onclick="scrollTo('tmz-tour')">TMZ TOUR</a>
-</div>
-
 <br>
 
 <h2 id="tmz-com" class="header space-up">TMZ.COM</h2>
      <img class="pull-left" src="/brand-resource/images/tmz-logo-image.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links center-block">
        <a href="/brand-resource/logos/png/tmz-logo-image.png" download="tmz-logo-image.png">PNG</a> | 
        <a href="/brand-resource/logos/svg/tmz-tv-logo-red.svg" download="tmz-logo-image.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-logo-image-blk.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links center-block">
         <a href="/brand-resource/logos/png/tmz-logo-image-blk.png" download="tmz-logo-image-blk.png">PNG</a> | 
         <a href="/brand-resource/logos/svg/tmz-logo-blk.svg" download="tmz-logo-image-blk.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-logo-image-wht.jpg?crc=4115404290" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links center-block">
         <a href="/brand-resource/logos/png/tmz-logo-image-wht.png" download="tmz-logo-image-wht.png">PNG</a> | 
         <a href="/brand-resource/logos/svg/tmz-logo-wht.svg" download="tmz-logo-image-wht.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
   <br><br>
   Colors:
   <br>
@@ -53,7 +43,7 @@ Find and learn how to use official TMZ assets.
       <b>HEX</b> #000000 <br>
       <b>RGB</b> 0 0 0
     </div>
-    <div style="clear:both"></div>
+    <div class="clearfix"></div>
   </div>  
   <div class="color-sampler pull-left">
       <div class="color-box bg-red pull-left">
@@ -64,9 +54,9 @@ Find and learn how to use official TMZ assets.
         <b>HEX</b> #CF0000 <br>
         <b>RGB</b> 207 0 0
       </div>
-      <div style="clear:both"></div>
+      <div class="clearfix"></div>
   </div>  
-  <div style="clear:both"></div>
+  <div class="clearfix"></div>
   
   <br><br>
   Headline Fragments:
@@ -92,25 +82,25 @@ Find and learn how to use official TMZ assets.
  
 <h2 id="tmz-sports" class="header space-up">TMZ SPORTS</h2>
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image.jpg" />
-      <div class="pull-right download-links">
+      <div class="pull-right download-links  center-block">
            <a href="/brand-resource/logos/png/tmz-sports-logo-image.png" download="tmz-sports-logo-image.png">PNG</a> | 
            <a href="/brand-resource/logos/svg/tmz-sports-logo-image.svg" download="tmz-sports-logo-image.svg">SVG</a>
       </div>
-      <div style="clear:both"></div>
+      <div class="clearfix"></div>
       <hr>
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image-blk.jpg" />
-      <div class="pull-right download-links">
+      <div class="pull-right download-links center-block">
            <a href="/brand-resource/logos/png/tmz-sports-logo-image-blk.png" download="tmz-sports-logo-image-blk.png">PNG</a> | 
            <a href="/brand-resource/logos/svg/tmz-sports-logo-image-blk.svg" download="tmz-sports-logo-image-blk.svg">SVG</a>
       </div>
-      <div style="clear:both"></div>
+      <div class="clearfix"></div>
       <hr>
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image-wht.jpg" />
-      <div class="pull-right download-links">
+      <div class="pull-right download-links  center-block">
             <a href="/brand-resource/logos/png/tmz-sports-logo-image-wht.png" download="tmz-sports-logo-image-wht.png">PNG</a> | 
             <a href="/brand-resource/logos/svg/tmz-sports-logo-image-wht.svg" download="tmz-sports-logo-image-wht.svg">SVG</a>
       </div>
-      <div style="clear:both"></div>
+      <div class="clearfix"></div>
       <br><br>
  Colors:
  <br>
@@ -124,7 +114,7 @@ Find and learn how to use official TMZ assets.
        <b>HEX</b> #000000 <br>
        <b>RGB</b> 0 0 0
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
  </div>    
  <div class="color-sampler pull-left">
        <div class="color-box bg-sky pull-left">
@@ -135,9 +125,9 @@ Find and learn how to use official TMZ assets.
          <b>HEX</b> #CF0000 <br>
          <b>RGB</b> 0 217 183
        </div>
-       <div style="clear:both"></div>
+       <div class="clearfix"></div>
  </div>    
- <div style="clear:both"></div>
+ <div class="clearfix"></div>
  
  <br><br>
  Headline Fragments:
@@ -163,104 +153,72 @@ Find and learn how to use official TMZ assets.
  
 <h2 id="tmz-on-tv" class="header space-up">TMZ ON TV</h2>   
      <img class="pull-left" src="/brand-resource/images/tmz-on-tv-logo-image.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
          <a href="/brand-resource/logos/png/tmz-on-tv-logo-image-wht.png" download="tmz-on-tv-logo-image-wht.png">PNG</a> | 
          <a href="/brand-resource/logos/svg/tmz-on-tv-logo-image.svg" download="tmz-on-tv-logo-image.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-on-tv-logo-image-blk.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
          <a href="/brand-resource/logos/png/tmz-on-tv-logo-image-blk.png" download="tmz-on-tv-logo-image-blk.png">PNG</a> | 
          <a href="/brand-resource/logos/svg/tmz-on-tv-logo-image-blk.svg" download="tmz-on-tv-logo-image-blk.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-on-tv-logo-image-wht.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
          <a href="/brand-resource/logos/png/tmz-on-tv-logo-image-wht.png" download="tmz-on-tv-logo-image-wht.png">PNG</a> | 
          <a href="/brand-resource/logos/svg/tmz-on-tv-logo-image-wht.svg" download="tmz-on-tv-logo-image-wht.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <br/><br>
  
 <h2 id="tmz-live" class="header space-up">TMZ LIVE</h2>   
      <img class="pull-left" src="/brand-resource/images/tmz-live-logo-image.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
          <a href="/brand-resource/logos/png/tmz-live-logo-image.png" download="tmz-live-logo-image.png">PNG</a> | 
          <a href="/brand-resource/logos/svg/tmz-live-logo-image.svg" download="tmz-live-logo-image.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-live-logo-image-blk.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
          <a href="/brand-resource/logos/png/tmz-live-logo-image-blk.png" download="tmz-live-logo-image-blk.png">PNG</a> | 
          <a href="/brand-resource/logos/svg/tmz-live-logo-image-blk.svg" download="tmz-live-logo-image-blk.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-live-logo-image-wht.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
           <a href="/brand-resource/logos/png/tmz-live-logo-image-wht.png" download="tmz-live-logo-image-wht.png">PNG</a> | 
           <a href="/brand-resource/logos/svg/tmz-live-logo-image-wht.svg" download="tmz-live-logo-image-wht.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <br/><br>
  
 <h2 id="tmz-tour" class="header space-up">TMZ TOUR</h2>   
      <img class="pull-left" src="/brand-resource/images/tmz-tour-logo-image.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
           <a href="/brand-resource/logos/png/tmz-tour-logo-image.png" download="tmz-tour-logo-image.png">PNG</a> | 
           <a href="/brand-resource/logos/svg/tmz-tour-logo-image.svg" download="tmz-tour-logo-image.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-tour-logo-image-blk.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
           <a href="/brand-resource/logos/png/tmz-tour-logo-image-blk.png" download="tmz-tour-logo-image-blk.png">PNG</a> | 
           <a href="/brand-resource/logos/svg/tmz-tour-logo-image-blk.svg" download="tmz-tour-logo-image-blk.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
      <hr>
      <img class="pull-left" src="/brand-resource/images/tmz-tour-logo-image-wht.jpg" />
-     <div class="pull-right download-links">
+     <div class="pull-right download-links  center-block">
           <a href="/brand-resource/logos/png/tmz-tour-logo-image-wht.png" download="tmz-tour-logo-image-wht.png">PNG</a> | 
           <a href="/brand-resource/logos/svg/tmz-tour-logo-image-wht.svg" download="tmz-tour-logo-image-wht.svg">SVG</a>
      </div>
-     <div style="clear:both"></div>
+     <div class="clearfix"></div>
 </div>
 
 
 
-<script type="text/javascript">
-
-    function animate(elem, style, unit, from, to, time, prop) {
-        if (!elem) {
-            return;
-        }
-        var start = new Date().getTime(),
-            timer = setInterval(function () {
-                var step = Math.min(1, (new Date().getTime() - start) / time);
-                if (prop) {
-                    elem[style] = (from + step * (to - from))+unit;
-                } else {
-                    elem.style[style] = (from + step * (to - from))+unit;
-                }
-                if (step === 1) {
-                    clearInterval(timer);
-                }
-            }, 25);
-        if (prop) {
-              elem[style] = from+unit;
-        } else {
-              elem.style[style] = from+unit;
-        }
-    }
-    
-    function scrollTo(elemId){
-      var target = document.getElementById(elemId);  
-      animate(document.scrollingElement || document.documentElement, "scrollTop", "", 0, target.offsetTop, 1000, true);
-      return false;
-    }
-
-</script>
