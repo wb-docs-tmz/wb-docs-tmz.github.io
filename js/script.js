@@ -22,6 +22,10 @@ var Main = (function($){
             }
             e.preventDefault();
         });
+
+        if(assetLink.hasClass('active')){
+            assetLink.click();
+        }
     }
 
     function showExtraLinks(wrapper, symbol){
