@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>The HTML5 Herald</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="author" content="SitePoint">
+
+
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+<h1>GIF Support Kaltura Mobile - Proof Of Concept</h1>
+
+<div id="myEmbedTarget" style="width:400px;height:330px;"></div>
+<!-- Substitute {partnerId} for your Kaltura partner id, {uiConfId} for an actual player id, also known as the uiconf id and {entryId} for an actual entry id. -->
+<script src="http://cdnapi.kaltura.com/p/591531/sp/59153100/embedIframeJs/uiconf_id/38248762/partner_id/591531"></script>
+<script>
+    kWidget.embed({
+        'targetId': 'myEmbedTarget',
+        'wid': '_591531',
+        'uiconf_id' : '38248762',
+        'entry_id' : '0_r0pnujbv',
+        'flashvars':{ // flashvars allows you to set runtime uiVar configuration overrides.
+            'autoPlay': false,
+            'thumbnailUrl': 'https://media.tmzdev.com/2017/06/15/giphy-1080x608.gif'
+        },
+        'params':{ // params allows you to set flash embed params such as wmode, allowFullScreen etc
+            'wmode': 'transparent'
+        },
+        thumbnail: true
+    });
+</script>
+
+</body>
+</html>
