@@ -33,31 +33,6 @@ Click to expand example: <br>
 
 <br><br>
 
-<h2 id="clutter-buster" class="header space-up">CLUTTERBUSTER</h2>
-
-Click to expand example: <br>
-
-<a href="/brand-resource/images/clutterbuster-tmz-example-site.jpg" data-lightbox="lightbox-2" data-title="">
-    <img class="center-block" src="/brand-resource/images/clutterbuster-tmz-example.jpg" />
-</a>
-
-<div class="panel bg-gray">
-  <div class="pull-left">
-      Ad Unit Dimension: <b>970 x 250</b>
-  </div>
-  <div class="pull-right">
-        Ad Unit Type: <b>Video/Static</b>
-  </div>
-  <div class="clearfix"></div>
-  <br>
-  <div class="text-center">
-         Download Template: 
-         <a class="download" href="/brand-resource/psd/clutterbuster.psd" download="clutterbuster.psd">PSD</a>
-  </div>  
-</div>
-
-<br><br>
-
 <h2 id="website-skin" class="header space-up">WEBSITE SKIN</h2>
 
 Click to expand example: <br>
@@ -68,7 +43,7 @@ Click to expand example: <br>
 
 <div class="panel bg-gray">
   <div class="pull-left">
-      Ad Unit Dimension: <b>1280 x 768</b>
+      Ad Unit Dimension: <b>1920 x 1080</b>
   </div>
   <div class="pull-right">
         Ad Unit Type: <b>Video/Static</b>
@@ -83,76 +58,26 @@ Click to expand example: <br>
 
 <br><br>
 
-<h2 id="mobile-site" class="header space-up">MOBILE SITE</h2>
+<h2 id="toofab-skin" class="header space-up">TOOFAB SKIN</h2>
 
-Example:
+Click to expand example: <br>
 
-<div class="center-block mobile-site">  
-      <div class="pull-left">
-          <b>Pop-up</b>
-          <img src="/brand-resource/images/iphone-mobile-site-image-03212x432.jpg" />
-      </div>
-      <div class="pull-left">
-          <div>
-            <b>Expandable</b>
-          </div>
-          <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-02212x432.jpg" />
-          <img class="pull-left" src="/brand-resource/images/iphone-mobile-site-image-01212x432.jpg" />
-          <div class="clearfix"></div>
-      </div>
-      <div class="clearfix"></div>
-</div>
+<a href="/brand-resource/logos/png/toofab-skin.png" data-lightbox="lightbox-2" data-title="">
+    <img class="center-block" src="/brand-resource/logos/png/toofab-skin.png" />
+</a>
 
 <div class="panel bg-gray">
   <div class="pull-left">
-      Ad Unit Dimension: <b>500 x 600</b>
+      Ad Unit Dimension: <b>1920 x 1080</b>
   </div>
   <div class="pull-right">
-        Ad Unit Type: <b>Static</b>
+        Ad Unit Type: <b>Video/Static</b>
   </div>
   <div class="clearfix"></div>
-  
-  <div>
-      Expandable Ad Unit Dimension: <b>W 640 x H 132 to 328</b>
-  </div>  
   <br>
-  <div class="text-center hidden">
-         Download Template: <b>PSD</b>
+  <div class="text-center">
+         Download Template: 
+         <a class="download" href="/brand-resource/psd/toofab-skin.psd" download="toofab-skin.psd">PSD</a>
   </div>  
 </div>
 
-<br><br>
-
-<h2 id="mobile-app" class="header space-up">MOBILE APP</h2>
-
-Example:
-
-<div class="center-block mobile-app-img">  
-      <div class="pull-left">
-         <b>Pop-up</b>
-         <img src="/brand-resource/images/iphone-mobile-app-image-02212x432.jpg" />
-      </div>
-      <div class="pull-left">
-         <b>Static Unit</b>
-         <img src="/brand-resource/images/iphone-mobile-app-image-01212x432.jpg" />
-      </div>
-      <div class="clearfix"></div> 
-</div>
-
-<div class="panel bg-gray">
-  <div class="pull-left">
-      Ad Unit Dimension: <b>640 x 1136</b>
-  </div>
-  <div class="pull-right">
-        Ad Unit Type: <b>Static</b>
-  </div>
-  <div class="clearfix"></div>
-  
-  <div>
-      Ad Unit Dimension: <b>500 x 600</b>
-  </div>  
-  <br>
-  <div class="text-center hidden">
-         Download Template: <b>PSD</b>
-  </div>  
-</div>

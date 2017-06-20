@@ -146,6 +146,15 @@ h2.headline.small{
     font-size: 58px;
 }
 
+.fragments h2, .fragments h3{
+    color: #000;
+}
+
+
+.fragments em span{
+    font-size: 18px;
+}
+
 .fragments span{
     margin-right: 15px;
 }
