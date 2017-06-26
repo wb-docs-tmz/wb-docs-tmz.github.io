@@ -173,14 +173,6 @@ h2.headline.small{
     text-align: center;
 }
 
-.mobile-site .pull-left:first-child{
-    margin-right: 10%;
-}
-
-.mobile-app-img .pull-left:first-child{
-    margin-right: 15%;
-}
-
 .panel a.download{
     color: #515151;
 }
