@@ -125,7 +125,7 @@ Find and learn how to use official TMZ assets.
        <div class="pull-left">
          <b>PMS</b> 325 <br>
          <b>CMYK</b> 64 0 41 0 <br>
-         <b>HEX</b> #CF0000 <br>
+         <b>HEX</b> #00D9B7 <br>
          <b>RGB</b> 0 217 183
        </div>
        <div class="clearfix"></div>
