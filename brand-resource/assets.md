@@ -24,7 +24,7 @@ Find and learn how to use official TMZ assets.
      </div>
      <div class="clearfix"></div>
      <hr>
-     <img class="pull-left" src="http://tmz-brand.businesscatalyst.com/images/tmz-logo-image-wht.jpg?crc=4115404290" />
+     <img class="pull-left" src="/brand-resource/images/tmz-logo-image-wht.jpg" />
      <div class="pull-right download-links center-block">
         <a href="/brand-resource/logos/png/tmz-logo-image-wht.png" download="tmz-logo-image-wht.png">PNG</a> | 
         <a href="/brand-resource/logos/svg/tmz-logo-wht.svg" download="tmz-logo-image-wht.svg">SVG</a>

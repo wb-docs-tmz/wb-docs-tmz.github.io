@@ -10,6 +10,11 @@
     src: url("/font/ProximaNovaExCn-Bold.otf") format("opentype");
 }
 
+@font-face {
+    font-family: SourceSansPro;
+    src: url("/font/SourceSansPro-Bold.ttf") format("truetype");
+}
+
 .theme-base-tmz .sidebar-about {
     display: inline-block;
 }
@@ -129,7 +134,7 @@ h2.header{
 
 .headline{
     margin: 0;
-    font-family: "Source Sans Pro", "sans-serif";
+    font-family: SourceSansPro, "sans-serif";
     font-weight: 700;
 }
 
@@ -171,6 +176,14 @@ h2.headline.small{
 
 .text-center{
     text-align: center;
+}
+
+.mobile-site .pull-left:first-child{
+    margin-right: 10%;
+}
+
+.mobile-app-img .pull-left:first-child{
+    margin-right: 15%;
 }
 
 .panel a.download{
