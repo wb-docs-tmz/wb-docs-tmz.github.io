@@ -26,6 +26,11 @@ body.lb-disable-scrolling {
     text-align: center;
     line-height: 0;
     font-weight: normal;
+
+    -webkit-transition: top 300ms;
+    -moz-transition: top 300ms;
+    -o-transition: top 300ms;
+    transition: top 300ms;
 }
 
 .lightbox .lb-image {
