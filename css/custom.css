@@ -1,3 +1,87 @@
+
+@font-face {
+    font-family: ProximaNovaExtraCondensedBlack;
+    font-weight: bold;
+    src: url("/font/ProximaNovaExCn-Black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: ProximaNovaExtraCondensedBold;
+    src: url("/font/ProximaNovaExCn-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SourceSansPro;
+    src: url("/font/SourceSansPro-Bold.ttf") format("truetype");
+}
+
+.theme-base-tmz .sidebar-about {
+    display: inline-block;
+}
+
+.theme-base-tmz .sidebar {
+    background-color: #000;
+}
+
+.theme-base-tmz .active{
+    color: #cf0000;
+}
+
+.theme-base-tmz .sidebar a{
+    font-family: ProximaNovaExtraCondensedBlack;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: left;
+}
+
+.theme-base-tmz .content a,
+.theme-base-tmz .related-posts li a:hover {
+    color: #ac4142;
+}
+
+.theme-base-tmz .sidebar hr{
+    margin: 0.5rem 0;
+    border-bottom: none;
+}
+
+.theme-base-tmz .sidebar .container{
+    max-width: 230px;
+}
+
+
+.theme-base-tmz .sidebar a span{
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+
+.extra-links{
+    padding-left: 20%;
+    max-width: 60%;
+    text-align: left;
+}
+
+
+.sidebar .extra-links a{
+    font-family: ProximaNovaExtraCondensedBold;
+    font-size: 18px;
+}
+
+.container{
+    word-wrap: break-word;
+}
+
+.container.home{
+    text-align: center;
+}
+
+
+.clearfix{
+    clear: both;
+}
+
 h2.header{
     color: #fff;
     background: #000;
@@ -5,16 +89,10 @@ h2.header{
     text-align: center;
 }
 
-.sticky{
-    position: fixed;
-    top: 20px;
-    right: 1%;
-}
-
 .download-links{
     margin: 10% 20% 0 0;
+    padding-right: 5%;
 }
-
 
 .logos img{
     padding: 10px 0 10px 0;
@@ -56,7 +134,7 @@ h2.header{
 
 .headline{
     margin: 0;
-    font-family: "Source Sans Pro", "sans-serif";
+    font-family: SourceSansPro, "sans-serif";
     font-weight: 700;
 }
 
@@ -73,6 +151,15 @@ h2.headline.small{
     font-size: 58px;
 }
 
+.fragments h2, .fragments h3{
+    color: #000;
+}
+
+
+.fragments em span{
+    font-size: 18px;
+}
+
 .fragments span{
     margin-right: 15px;
 }
@@ -80,6 +167,7 @@ h2.headline.small{
 .center-block{
     margin-right: auto;
     margin-left: auto;
+    display: block;
 }
 
 .panel{
@@ -90,22 +178,87 @@ h2.headline.small{
     text-align: center;
 }
 
-.mobile-img-title div{
-    width: 50%;
+.mobile-site .pull-left:first-child{
+    margin-right: 10%;
 }
 
-.mobile-img-title.mobile-site div:first-child{
-    width: 41%;
+.mobile-app-img .pull-left:first-child{
+    margin-right: 15%;
 }
 
-.mobile-app-img .pull-left{
-    margin-left: 15%;
-}
 .panel a.download{
     color: #515151;
 }
+
 .hidden{
     display: none;
 }
+
+.hide-sm{
+    display: none;
+}
+
+
+@media (min-width: 768px) {
+    .theme-base-tmz .sidebar-nav a:first-child{
+        display: table;
+    }
+
+    .theme-base-tmz .sidebar{
+        max-width: 272px;
+    }
+
+    .theme-base-tmz .sidebar a span{
+        display: table-cell;
+        vertical-align: middle;
+        padding-left: 5%;
+    }
+
+    .theme-base-tmz .sidebar a{
+        font-size: 45px;
+    }
+
+    .theme-base-tmz .sidebar .container{
+        max-width: none;
+    }
+
+    .sidebar .extra-links a{
+        font-size: 30px;
+    }
+
+
+    .extra-links{
+        padding-left: 35%;
+        max-width: none;
+    }
+
+    .hide-sm{
+        display: block;
+    }
+}
+
+
+@media (min-width: 800px){
+    .container{
+        word-wrap: normal;
+    }
+
+}
+
+/** override media queries from hyde.css **/
+
+@media (min-width: 64em){
+    .content {
+        margin-left: 18rem;
+        margin-right: 4rem;
+    }
+}
+
+@media (min-width: 48em){
+    .content.home {
+        max-width: none;
+    }
+}
+
 
 
