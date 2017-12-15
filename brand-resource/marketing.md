@@ -77,7 +77,7 @@ Click to expand example: <br>
   <br>
   <div class="text-center">
          Download Template: 
-         <a class="download" href="/brand-resource/psd/toofab-skin.psd" download="toofab-skin.psd">PSD</a>
+         <a class="download" href="/brand-resource/psd/toofab-skin-v2.psd" download="toofab-skin.psd">PSD</a>
   </div>  
 </div>
 

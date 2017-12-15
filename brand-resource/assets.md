@@ -13,7 +13,7 @@ Find and learn how to use official TMZ assets.
      <img class="pull-left" src="/brand-resource/images/tmz-logo-image.jpg" />
      <div class="pull-right download-links center-block">
        <a href="/brand-resource/logos/png/tmz-logo-image.png" download="tmz-logo-image.png">PNG</a> | 
-       <a href="/brand-resource/logos/svg/tmz-tv-logo-red.svg" download="tmz-logo-image.svg">SVG</a>
+       <a href="/brand-resource/logos/svg/tmz-logo-image-red.svg" download="tmz-logo-image.svg">SVG</a>
      </div>
      <div class="clearfix"></div>
      <hr>
@@ -87,21 +87,21 @@ Find and learn how to use official TMZ assets.
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image.jpg" />
       <div class="pull-right download-links  center-block">
            <a href="/brand-resource/logos/png/tmz-sports-logo-image.png" download="tmz-sports-logo-image.png">PNG</a> | 
-           <a href="/brand-resource/logos/svg/tmz-sports-logo-image.svg" download="tmz-sports-logo-image.svg">SVG</a>
+           <a href="/brand-resource/logos/svg/tmz_sports.svg" download="tmz-sports-logo-image.svg">SVG</a>
       </div>
       <div class="clearfix"></div>
       <hr>
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image-blk.jpg" />
       <div class="pull-right download-links center-block">
            <a href="/brand-resource/logos/png/tmz-sports-logo-image-blk.png" download="tmz-sports-logo-image-blk.png">PNG</a> | 
-           <a href="/brand-resource/logos/svg/tmz-sports-logo-image-blk.svg" download="tmz-sports-logo-image-blk.svg">SVG</a>
+           <a href="/brand-resource/logos/svg/tmz-sports.svg" download="tmz-sports-logo-image-blk.svg">SVG</a>
       </div>
       <div class="clearfix"></div>
       <hr>
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image-wht.jpg" />
       <div class="pull-right download-links  center-block">
             <a href="/brand-resource/logos/png/tmz-sports-logo-image-wht.png" download="tmz-sports-logo-image-wht.png">PNG</a> | 
-            <a href="/brand-resource/logos/svg/tmz-sports-logo-image-wht.svg" download="tmz-sports-logo-image-wht.svg">SVG</a>
+            <a href="/brand-resource/logos/svg/tmz_sports-white-on-black.svg" download="tmz-sports-logo-image-wht.svg">SVG</a>
       </div>
       <div class="clearfix"></div>
       <br><br>
