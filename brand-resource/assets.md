@@ -87,7 +87,7 @@ Find and learn how to use official TMZ assets.
       <img class="pull-left" src="/brand-resource/images/tmz-sports-logo-image.jpg" />
       <div class="pull-right download-links  center-block">
            <a href="/brand-resource/logos/png/tmz-sports-logo-image.png" download="tmz-sports-logo-image.png">PNG</a> | 
-           <a href="/brand-resource/logos/svg/tmz_sports.svg" download="tmz-sports-logo-image.svg">SVG</a>
+           <a href="/brand-resource/logos/svg/tmz_sports-blue.svg" download="tmz-sports-logo-image.svg">SVG</a>
       </div>
       <div class="clearfix"></div>
       <hr>
