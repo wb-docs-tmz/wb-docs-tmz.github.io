@@ -62,8 +62,8 @@ Click to expand example: <br>
 
 Click to expand example: <br>
 
-<a href="/brand-resource/logos/png/toofab-skin.png" data-lightbox="lightbox-2" data-title="">
-    <img class="center-block" src="/brand-resource/logos/png/toofab-skin.png" />
+<a href="/brand-resource/logos/png/toofab-skin-example.png" data-lightbox="lightbox-2" data-title="">
+    <img class="center-block" src="/brand-resource/logos/png/toofab-skin-example.png" />
 </a>
 
 <div class="panel bg-gray">
